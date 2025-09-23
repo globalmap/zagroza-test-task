@@ -124,3 +124,13 @@
   text-align: center;
   font-style: italic;
 }
+
+.dropdown-option.highlighted {
+  background-color: #e0e7ff;
+  color: #1e40af;
+}
+
+.dropdown-option.selected.highlighted {
+  background-color: #2563eb;
+  color: white;
+}
